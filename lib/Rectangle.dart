@@ -1,5 +1,3 @@
-import 'dart:html';
-
 class Rectangle {
   double j = 0;
   double d = 0;
